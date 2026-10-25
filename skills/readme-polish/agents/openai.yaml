@@ -1,0 +1,6 @@
+interface:
+  display_name: "README 优化"
+  short_description: "把仓库首页整理得直观易读，复用开源模板并核对示例、链接和真实徽章"
+  default_prompt: "使用 $readme-polish 优化这个项目的 README，突出用途、直观示例和快速开始，并检查内容真实性及 GitHub 渲染。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+/validation.local.json
+/preview.local.html
+/preview.local.png
